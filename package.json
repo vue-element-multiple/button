@@ -1,6 +1,6 @@
 {
   "name": "vue-element-multiple-button",
-  "description": "A vue.js component dev project",
+  "description": "Element Button clone and did just a little change.",
   "version": "1.0.0",
   "author": "vue-element-multiple",
   "main": "lib/button.js",
